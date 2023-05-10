@@ -1,0 +1,12 @@
+.fuente-Bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.fuente-Roboto {
+    font-family: 'Roboto Slab', serif;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #5cda3596; /* un color más brillante que el original */
+  }
+  
